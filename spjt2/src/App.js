@@ -28,8 +28,6 @@ function App() {
     alert('loginBtn3 클릭')
   }
 
-
-
   return (
     <div className="App">
       <h2>메인</h2>
