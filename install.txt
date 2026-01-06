@@ -22,3 +22,5 @@ npm start
 
 7. 서버배포시 
 process.env.PUBLIC_URL
+
+alt + b 
