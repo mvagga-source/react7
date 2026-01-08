@@ -31,3 +31,16 @@ alt + b
 https://www.bootstrapcdn.com/
 
 https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works
+
+
+JS구문
+
+반복구문
+map  사용 (return이 있음)
+for 사용안함
+each 사용안함
+
+반복 : map
+추가 : 구조분해 할당 [...a,4]
+수정, 삭제 : filter 배열로 리턴
+            find 객체로 리턴
