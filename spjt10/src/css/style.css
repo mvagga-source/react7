@@ -1,0 +1,14 @@
+
+.navbar{margin-bottom: 40px;}
+
+.root{
+    width:500px;height:100%;
+    margin:0 auto;
+    padding:20px;
+    border: 1px solid black;
+}
+
+.root h2{text-align: center;}
+.root button{margin-left: 10px;}
+.root .card{margin-bottom: 10px;}
+.root .d-flex{margin:50px;}
