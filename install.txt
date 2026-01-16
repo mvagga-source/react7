@@ -54,7 +54,7 @@ each 사용안함
 8. npm install axios (* 프로젝트 안에서 실행해야 적용됨)
     import axios from 'axios'; // node.js 비동기식 서버통신 프로그램(axios)
 
-9. 디장고 DB 사용
+9. 디장고 에서 CROS 문제 해결
     pip install django-cors-headers
 
 INSTALLED_APPS = [
