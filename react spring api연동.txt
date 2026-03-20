@@ -1,0 +1,19 @@
+
+useState : react변수
+- 값이 변경이 되면 html화면을 재실행을 시켜서 바로 반영이 됨
+useEffect : 화면 재실행되면 무조건 실행되는 함수
+
+# 스프링 추가 사항
+@CrossOrigin(origins = "http://localhost:3000") // React 포트 허용
+
+
+# React API 전송 방식
+get : read - 스프링 DTO(객체), LIST(리스트) - [ { 객체 },{ },{ } ]  , MAP (컬렉션)
+post : create - 스프링 DTO(객체)
+put : update - 스프링 DTO(객체)
+delete : delete - 스프링 ID값
+
+
+
+https://www.bootstrapcdn.com/
+https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works

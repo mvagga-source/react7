@@ -1,0 +1,10 @@
+AuthContext는 React에서 로그인 사용자 정보(user)를 모든 컴포넌트에서 공유하기 위한 전역 상태 관리 방법입니다.
+특히 React + Spring 세션 로그인에서 많이 사용하는 구조입니다. 🔐
+
+핵심 개념은 Context API입니다.
+
+React Context
+↓
+전역 데이터 저장
+↓
+모든 컴포넌트에서 접근 가능
